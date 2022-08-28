@@ -1,0 +1,5 @@
+Projects/*
+!Projects/STM32H747I-DISCO
+
+Drivers/BSP/*
+!Drivers/BSP/STM32H747I-DISCO
