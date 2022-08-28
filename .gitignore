@@ -3,3 +3,4 @@ Projects/*
 
 Drivers/BSP/*
 !Drivers/BSP/STM32H747I-DISCO
+!Drivers/BSP/Components
